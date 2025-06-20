@@ -8,9 +8,9 @@
 **Matrix Events** is an Android app developed to help the Matrix Club organize and manage its events.  
 Students can register, mark attendance, and stay updated with new events, while admins can create events, mark attendance, and download participant reports.
 
-> ⚡️ **Access is restricted to Chitkara email addresses (@chitkara.edu.in)**
-> ✅ You can access the app with following credentials (deepak7035.ca24@chitkara.edu.in , matrix_deepak)
-> ✅ **Admin role granted only via database** for security
+- ⚡️ **Access is restricted to Chitkara email addresses (@chitkara.edu.in)**
+- ✅ You can access the app with following credentials (deepak7035.ca24@chitkara.edu.in , matrix_deepak)
+- ✅ **Admin role granted only via database** for security
 
 ---
 
